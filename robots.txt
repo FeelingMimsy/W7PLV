@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://w7plv.com/sitemap.xml
