@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "W7PLV",
     "description": "",
-    "home_page_url": "https://8a446980.w7plv.pages.dev",
-    "feed_url": "https://8a446980.w7plv.pages.dev/feed.json",
+    "home_page_url": "https://w7plv.pages.dev",
+    "feed_url": "https://w7plv.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dave"
